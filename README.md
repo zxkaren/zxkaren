@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:020617,100:000000&text=Hi,%20welcome%20to%20my%20idea%20lab&fontColor=00F5FF&fontSize=24&fontAlignY=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:020617,100:000000&text=Hi,%20welcome%20to%20my%20lab&fontColor=00F5FF&fontSize=24&fontAlignY=50&animation=fadeIn" />
 </p>
 <p align="center">
   • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 </p>
 
-## Olá, eu sou a Karen ;)
+## Olá, eu sou a Karen
 
 Automation Developer | Data & Integration  
 São Paulo - Brasil  
