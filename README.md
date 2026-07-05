@@ -59,22 +59,32 @@ Minha atuação une visão de processos, conhecimento corporativo e desenvolvime
 
 API desenvolvida em Python com Flask e Swagger para entregar funcionalidades relacionadas ao processamento de documentos.
 
-A primeira funcionalidade implementada é o motor de comparação de PDFs, capaz de receber um documento original e um documento modificado, gerar um terceiro arquivo comparado e retornar um resumo das alterações identificadas.
+### Funcionalidades
 
-Principais recursos:
+### Compare
 
-- API Flask com documentação Swagger
-- Upload de arquivo original e arquivo modificado
-- Comparação de documentos PDF, word (docx), Excel (xlsx) e PowerPoint (pptx)
-- Geração de arquivo comparado
-- Highlight para palavras adicionadas
-- Sublinhado para indicar exclusões
-- Comentários PDF com o conteúdo removido
-- Summary table com add, delete e total changes
-- Retorno em download_url, json ou json_file
-- Rotina de limpeza de arquivos temporários
-- Testes automatizados com pytest
-- Versionamento com release v1.3.0
+Funcionalidade responsável pela comparação de documentos, permitindo identificar diferenças entre arquivos de uma mesma extensão.
+
+Pode ser usada, por exemplo, para comparar contratos, propostas, atas, versões revisadas de documentos ou arquivos técnicos, ajudando a identificar o que foi adicionado, removido ou alterado entre duas versões.
+
+Extensões suportadas:
+
+- PDF
+- DOCX
+- XLSX
+- PPTX
+
+### Extração de Texto
+
+Funcionalidade responsável por extrair somente o conteúdo textual de documentos, ignorando elementos que não fazem parte da leitura principal, como imagens, ícones, emojis, URLs, e-mails, números de página e legendas de figuras.
+
+Pode ser usada, por exemplo, para limpar textos de papers, contratos, apresentações, atas, resumos, notas de imprensa e materiais técnicos. Esse conteúdo extraído pode ser reaproveitado para revisão textual, reescrita, análise, indexação ou integração futura com aplicações de leitura em voz alta, como uma `voice-reader-api`, oferecendo uma experiência próxima de audiolivro ou podcast.
+
+Extensões suportadas:
+
+- PDF
+- DOCX
+- PPTX
 
 Stack utilizada:
 
