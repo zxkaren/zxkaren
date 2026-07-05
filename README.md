@@ -65,7 +65,7 @@ Principais recursos:
 
 - API Flask com documentação Swagger
 - Upload de arquivo original e arquivo modificado
-- Comparação de documentos PDF, word (docx) e Excel (xlsx)
+- Comparação de documentos PDF, word (docx), Excel (xlsx) e PowerPoint (pptx)
 - Geração de arquivo comparado
 - Highlight para palavras adicionadas
 - Sublinhado para indicar exclusões
@@ -74,7 +74,7 @@ Principais recursos:
 - Retorno em download_url, json ou json_file
 - Rotina de limpeza de arquivos temporários
 - Testes automatizados com pytest
-- Versionamento com release v1.2.0
+- Versionamento com release v1.3.0
 
 Stack utilizada:
 
