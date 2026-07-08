@@ -61,30 +61,9 @@ API desenvolvida em Python com Flask e Swagger para entregar funcionalidades rel
 
 ### Funcionalidades
 
-### Compare
-
-Funcionalidade responsável pela comparação de documentos, permitindo identificar diferenças entre arquivos de uma mesma extensão.
-
-Pode ser usada, por exemplo, para comparar contratos, propostas, atas, versões revisadas de documentos ou arquivos técnicos, ajudando a identificar o que foi adicionado, removido ou alterado entre duas versões.
-
-Extensões suportadas:
-
-- PDF
-- DOCX
-- XLSX
-- PPTX
-
-### Extração de Texto
-
-Funcionalidade responsável por extrair somente o conteúdo textual de documentos, ignorando elementos que não fazem parte da leitura principal, como imagens, ícones, emojis, URLs, e-mails, números de página e legendas de figuras.
-
-Pode ser usada, por exemplo, para limpar textos de papers, contratos, apresentações, atas, resumos, notas de imprensa e materiais técnicos. Esse conteúdo extraído pode ser reaproveitado para revisão textual, reescrita, análise, indexação ou integração futura com aplicações de leitura em voz alta, como uma `voice-reader-api`, oferecendo uma experiência próxima de audiolivro ou podcast.
-
-Extensões suportadas:
-
-- PDF
-- DOCX
-- PPTX
+* Compare para comparação de arquivos
+* Extract Text para extrair apenas o conteúdo do arquivo (ignora emojis, notas de rodapé, numero de paginas etc.)
+* Split PDF para separar as paginas do pdf uma por uma ou em "pacotes" com paginas selecionadas
 
 Stack utilizada:
 
