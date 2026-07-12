@@ -61,7 +61,7 @@ API desenvolvida em Python com Flask e Swagger para entregar funcionalidades rel
 
 ### Funcionalidades
 
-* Compare para comparação de arquivos
+* Compare para comparação de arquivos (pdfs, word, excel e powerpoint)
 * Extract Text para extrair apenas o conteúdo do arquivo (ignora emojis, notas de rodapé, numero de paginas etc.)
 * Split PDF para separar as paginas do pdf uma por uma ou em "pacotes" com paginas selecionadas
 * OCR PDF para aplicar OCR em documentos. Também recebe e entrega vários arquivos de uma só vez.
