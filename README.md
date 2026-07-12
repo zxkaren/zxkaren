@@ -74,6 +74,10 @@ Stack utilizada:
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF-red?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+[![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://openpyxl.readthedocs.io/)
+[![python-pptx](https://img.shields.io/badge/python--pptx-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)](https://python-pptx.readthedocs.io/)
+[![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square&logo=googlelens&logoColor=white)](https://github.com/tesseract-ocr/tesseract)
+[![OCRmyPDF](https://img.shields.io/badge/OCRmyPDF-CC0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://ocrmypdf.readthedocs.io/)
 
 Repositório:
 
