@@ -53,71 +53,6 @@ Minha atuação une visão de processos, conhecimento corporativo e desenvolvime
 
 ---
 
-## Projetos em destaque
-
-### DocTools API
-
-API desenvolvida em Python com Flask e Swagger para entregar funcionalidades relacionadas ao processamento de documentos.
-
-### Funcionalidades
-
-* Compare para comparação de arquivos (pdfs, word, excel e powerpoint)
-* Extract Text para extrair apenas o conteúdo do arquivo (ignora emojis, notas de rodapé, numero de paginas etc.)
-* Split PDF para separar as paginas do pdf uma por uma ou em "pacotes" com paginas selecionadas
-* OCR PDF para aplicar OCR em documentos. Também recebe e entrega vários arquivos de uma só vez.
-
-Stack utilizada:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![PyMuPDF](https://img.shields.io/badge/PyMuPDF-PDF-red?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-[![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white)](https://openpyxl.readthedocs.io/)
-[![python-pptx](https://img.shields.io/badge/python--pptx-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)](https://python-pptx.readthedocs.io/)
-[![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=flat-square&logo=googlelens&logoColor=white)](https://github.com/tesseract-ocr/tesseract)
-[![OCRmyPDF](https://img.shields.io/badge/OCRmyPDF-CC0000?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://ocrmypdf.readthedocs.io/)
-
-Repositório:
-
-[github.com/zxkaren/doctools-api](https://github.com/zxkaren/doctools-api)
-
----
-
-### Automation Registry
-
-Sistema de gestão de automações com foco em rastreabilidade, organização e mensuração de ganho operacional.
-
-O projeto foi desenvolvido para registrar automações, controlar versões, documentar informações relevantes e apoiar a gestão de iniciativas de automação em ambiente corporativo.
-
-Principais recursos:
-
-- CRUD completo
-- API REST
-- Interface web
-- Banco de dados MySQL
-- Docker
-- Registro de projetos de automação
-- Controle de versões
-- Organização de dados operacionais
-- Cálculo de horas economizadas
-- Estrutura pensada para escalabilidade e manutenção
-
-Stack utilizada:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
-
-Repositório:
-
-[github.com/zxkaren/automation-registry](https://github.com/zxkaren/automation-registry)
-
----
-
 ## O que você vai encontrar aqui
 
 - Projetos de automação com Python
@@ -126,6 +61,7 @@ Repositório:
 - Integrações com sistemas e documentos
 - Estruturas pensadas para ambiente corporativo
 - Código organizado, documentado e versionado
+- Talvez um joguinho e coisas mais descontraídas hahaha
 
 ---
 
