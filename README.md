@@ -14,7 +14,7 @@ Developer, Analytics Engineer and Financial Specialist
 
 ## Sobre mim
 
-Carreira desenvolvida em finanças, mais de 7 anos em posições de liderança, mas o amor por tecnologia falou mais alto e hoje, como desenvolvedora, crio utomações com foco em eficiência operacional, integração de sistemas e análise de dados. Além de mensuração e reporte de resultados para executivos.
+Carreira desenvolvida em finanças, mais de 7 anos em posições de liderança, mas o amor por tecnologia falou mais alto e hoje, como desenvolvedora, crio automações com foco em eficiência operacional, integração de sistemas e análise de dados. Além de mensuração e reporte de resultados para executivos.
 
 Atuo desenvolvendo soluções que eliminam trabalho manual, aumentam a rastreabilidade, reduzem retrabalho e geram impacto direto no negócio.
 
